@@ -1,0 +1,19 @@
+h1{
+  font-family:Sekuya ;
+  background-color: beige;
+  color: blueviolet
+}
+h2{
+  
+  font-family:Sekuya;
+  background-color: aqua;
+  color: chocolate
+}
+p{
+  font-family: Sekuya;
+  background-color: bisque;
+  color: black;
+}
+.container {
+  display: flex;
+}
